@@ -137,6 +137,16 @@ h1,h2,h3,h4,h5,h6,p{
   color: #ffffff;
 }
 @media (max-width: 700px) {
+  .back-heading{
+    display: none;
+  }
+  .front-heading {
+    margin-bottom: 24%;
+  }
+
+  .contact-front-heading {
+    margin-bottom: 50px;
+  }
   .about-img{
     margin-left: 20px;
     right: 0px;
